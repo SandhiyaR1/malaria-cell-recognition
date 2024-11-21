@@ -153,7 +153,7 @@ print('SANDHIYA R\n212222230129')
 
 ### New Sample Data Prediction
 
-![image](https://github.com/user-attachments/assets/8fe7429a-89a9-4d1e-a859-99d5e821c072)
+![WhatsApp Image 2024-11-21 at 18 06 35_e9418db5](https://github.com/user-attachments/assets/8d52a329-555f-4496-bd6e-f2552f1f93e5)
 
 ## RESULT
 Thus a deep neural network for Malaria infected cell recognition and to analyze the performance is created using tensorflow.
